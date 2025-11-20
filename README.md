@@ -1,2 +1,3 @@
 # odoo
-A new repository created by Skysize
+Our Odoo Implementation
+Imported from Vultr
